@@ -1,4 +1,4 @@
-![logo](https://github.com/priyashankar-hub/priyashankar-hub/blob/main/20221211_140845_0000.png)
+![logo](https://github.com/priyashankar-hub/priyashankar-hub/blob/main/Github_Banner.png)
 <h1 align="center">Hi 👋, I'm Priya Shankar Bharti</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://yah.me/assets/front/images/header-shape.gif">
