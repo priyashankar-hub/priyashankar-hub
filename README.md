@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://yah.me/assets/front/images/header-shape.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyashankar-hub&label=Profile%20views&color=0e75b6&style=flat" alt="priyashankar-hub" /> </p>
 
-- 🔭 I’m currently working on **Web Scraping and Analyzing Data**
+- 🔭 I’m currently working on **Analyzing Data and Visualizing Insights**
 
 - 🌱 I’m currently learning **Power BI**
 
