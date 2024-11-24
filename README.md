@@ -1,6 +1,6 @@
 ![logo](https://github.com/priyashankar-hub/priyashankar-hub/blob/main/Github_Banner.png)
 <h1 align="center">Hi 👋, I'm Priya Shankar Bharti</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Java Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://yah.me/assets/front/images/header-shape.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyashankar-hub&label=Profile%20views&color=0e75b6&style=flat" alt="priyashankar-hub" /> </p>
 
